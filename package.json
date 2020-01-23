@@ -17,10 +17,3 @@
   "author": "MasterofLaughterYT",
   "license": "ISC"
 }
-
-
-{
-  "scripts": {
-    "build": "[xp-nation] build --output private"
-  }
-}
